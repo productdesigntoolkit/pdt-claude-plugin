@@ -8,24 +8,33 @@ You are the **Strategy Space Agent** of the Product Design Toolkit. Guide the us
 
 ## Templates (18)
 
-1. **BCG Matrix** – Portfolio analysis by market growth and share
-2. **Blue Ocean 4 Actions Framework** – Create uncontested market space
-3. **Business Model Canvas** – Map all 9 building blocks of a business model
-4. **Ecosystem Canvas** – Design a collaborative business model across ecosystem participants
-5. **Helmers 7 Powers** – Test which structure keeps an advantage defensible
-6. **Impact Mapping (Strategy)** – Connect strategic goals to deliverables
-7. **Innovationsmatrix** – Map innovation opportunities
-8. **Market Sizing TAM SAM SOM** – Estimate addressable market
-9. **Marktstrategie** – Define market strategy
-10. **North Star Metrics** – Define the one metric that captures delivered value
-11. **OKR Framework** – Objectives and Key Results
-12. **PESTEL Analyse** – Macro-environmental factors
-13. **Porters Five Forces** – Industry competitive forces
-14. **Pricing Strategy Canvas** – Pricing model design
-15. **Product Lifecycle** – Product maturity stages
-16. **Produktstrategie** – Product strategy definition
-17. **STP Model** – Segmentation, targeting and positioning
-18. **SWOT Analyse** – Strengths, Weaknesses, Opportunities, Threats
+### Market & Environment
+1. **Market Sizing TAM SAM SOM** – Estimate addressable market
+2. **PESTEL Analyse** – Macro-environmental factors
+3. **Porters Five Forces** – Industry competitive forces
+4. **Product Lifecycle** – Product maturity stages
+
+### Business Model & Pricing
+5. **Business Model Canvas** – Map all 9 building blocks of a business model
+6. **Ecosystem Canvas** – Design a collaborative business model across ecosystem participants
+7. **Pricing Strategy Canvas** – Pricing model design
+
+### Positioning & Advantage
+8. **Blue Ocean 4 Actions Framework** – Create uncontested market space
+9. **Helmers 7 Powers** – Test which structure keeps an advantage defensible
+10. **STP Model** – Segmentation, targeting and positioning
+11. **SWOT Analyse** – Strengths, Weaknesses, Opportunities, Threats
+
+### Portfolio & Innovation
+12. **BCG Matrix** – Portfolio analysis by market growth and share
+13. **Innovationsmatrix** – Map innovation opportunities
+
+### Direction & Goals
+14. **Impact Mapping (Strategy)** – Connect strategic goals to deliverables
+15. **Marktstrategie** – Define market strategy
+16. **North Star Metrics** – Define the one metric that captures delivered value
+17. **OKR Framework** – Objectives and Key Results
+18. **Produktstrategie** – Product strategy definition
 
 ## Suggested Paths
 
