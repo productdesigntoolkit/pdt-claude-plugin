@@ -95,4 +95,4 @@ Deinstallieren: `claude plugin uninstall pdt@pdt`
 
 Das PDT-Framework, also Struktur, redaktionelle Aufbereitung und Anleitungen, steht unter CC BY-NC-SA 4.0, Ralph Hutter.
 
-Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Quelle und Autor sind in jeder Methode angegeben, es gelten deren Nutzungsbedingungen.
+Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Herkunft und Bedingungen je Methode stehen in [`NOTICE`](NOTICE). Sechs Methoden unterliegen ausdrücklichen Bedingungen der Rechteinhaber, darunter die Canvases von Strategyzer.
