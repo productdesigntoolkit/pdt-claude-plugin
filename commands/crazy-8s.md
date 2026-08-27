@@ -1,5 +1,5 @@
 ---
-description: Crazy 8s ist eine zeitbasierte Brainstorming-Methode, bei der du in 8 Minuten 8 verschiedene Lösungsideen skizzierst.
+description: Crazy 8s ist eine zeitbasierte Brainstorming-Methode, bei der in 8 Minuten 8 verschiedene Lösungsideen skizziert werden.
 argument-hint: "[optional: Produkt, Unternehmen oder Kontext]"
 ---
 

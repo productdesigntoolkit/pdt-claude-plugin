@@ -1,5 +1,5 @@
 ---
-description: Die Segmentation Matrix ist ein systematisches Tool zur Unterteilung deines Zielmarkts in homogene Kundengruppen basierend auf verschiedenen Kriterien.
+description: Die Segmentation Matrix ist ein systematisches Tool zur Unterteilung des Zielmarkts in homogene Kundengruppen basierend auf verschiedenen Kriterien.
 argument-hint: "[optional: Produkt, Unternehmen oder Kontext]"
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Ein Marketing KPI Dashboard visualisiert die wichtigsten Kennzahlen deiner Marketingaktivitäten in einem übersichtlichen Format.
+description: Ein Marketing KPI Dashboard visualisiert die wichtigsten Kennzahlen der Marketingaktivitäten in einem übersichtlichen Format.
 argument-hint: "[optional: Produkt, Unternehmen oder Kontext]"
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Personas sind fiktive, aber datenbasierte Charaktere, die typische Nutzergruppen deines Produkts repräsentieren.
+description: Personas sind fiktive, aber datenbasierte Charaktere, die typische Nutzergruppen eines Produkts repräsentieren.
 argument-hint: "[optional: Produkt, Unternehmen oder Kontext]"
 ---
 

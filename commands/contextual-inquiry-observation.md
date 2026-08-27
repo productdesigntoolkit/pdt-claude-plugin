@@ -1,5 +1,5 @@
 ---
-description: Bei der Contextual Inquiry beobachtest du Nutzer direkt in ihrer natürlichen Arbeits- oder Nutzungsumgebung.
+description: Bei der Contextual Inquiry werden Nutzer direkt in ihrer natürlichen Arbeits- oder Nutzungsumgebung beobachtet.
 argument-hint: "[optional: Produkt, Unternehmen oder Kontext]"
 ---
 
