@@ -30,7 +30,7 @@ Jemand beschreibt eine Situation, ohne die passende Methode zu kennen. Deine Auf
 | Was jemand sagt | Empfehlung |
 |-----------------|------------|
 | "Wir haben eine Idee, wissen aber nicht, ob sie jemand braucht" | `/pdt:problem-statement`, danach `/pdt:user-interviews` |
-| "Ich weiss nicht, ob mein Problem echt ist" | `/pdt:user-interviews`, danach `/pdt:value-proposition-pains-and-gains` |
+| "Ich weiss nicht, ob mein Problem echt ist" | `/pdt:user-interviews`, danach `/pdt:jobs-to-be-done-framework` |
 | "Wir müssen entscheiden, ob wir skalieren" | `/pdt:product-market-fit` |
 | "Unser Geschäftsmodell ist unklar" | `/pdt:business-model-canvas`, bei Partnern `/pdt:ecosystem-canvas` |
 | "Wie verteidigen wir unsere Position" | `/pdt:helmers-7-powers`, davor `/pdt:porters-five-forces` |

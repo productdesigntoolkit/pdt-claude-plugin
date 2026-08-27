@@ -8,8 +8,7 @@
 **Methodenübersicht:** [Explorer](https://productdesigntoolkit.github.io/explorer/)
 **Lizenz:** CC BY-NC-SA 4.0
 
-> **Lizenz:** CC BY-NC-SA 4.0. Das ist eine Creative-Commons-Lizenz, keine Open-Source-Lizenz.
-> Nutzung, Weitergabe und Veränderung sind erlaubt, kommerzielle Nutzung nicht.
+> **Lizenz:** CC BY-NC-SA 4.0. Weitergabe und Veränderung erlaubt, kommerzielle Nutzung nicht.
 > Herkunft und Bedingungen je Methode: [`NOTICE`](NOTICE).
 
 
@@ -100,4 +99,4 @@ Deinstallieren: `claude plugin uninstall pdt@pdt`
 
 Das PDT-Framework, also Struktur, redaktionelle Aufbereitung und Anleitungen, steht unter CC BY-NC-SA 4.0, Ralph Hutter.
 
-Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Herkunft und Bedingungen je Methode stehen in [`NOTICE`](NOTICE). Sechs Methoden unterliegen ausdrücklichen Bedingungen der Rechteinhaber, darunter die Canvases von Strategyzer.
+Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Herkunft und Bedingungen je Methode stehen in [`NOTICE`](NOTICE).

@@ -1,6 +1,6 @@
 # Methodenübersicht
 
-85 Methoden in fünf Spaces. Jede Methode wird über den angegebenen Befehl aufgerufen und führt durch die Anwendung bis zu einem Ergebnis in `pdt-workspace/`.
+81 Methoden in fünf Spaces. Jede Methode wird über den angegebenen Befehl aufgerufen und führt durch die Anwendung bis zu einem Ergebnis in `pdt-workspace/`.
 
 Der Aufbau der Methode selbst, also Herkunft, Quellen und ausführliche Anleitung, steht in der Methodenbibliothek. Die Spalte Beschreibung nennt den Zweck in einem Satz.
 
@@ -35,7 +35,7 @@ Ist die passende Methode unklar, genügt eine Beschreibung der Situation in eige
 
 ## Problem Space
 
-*Welches Problem wird gelöst?* · 17 Methoden · Wegweiser: `/pdt:problem`
+*Welches Problem wird gelöst?* · 14 Methoden · Wegweiser: `/pdt:problem`
 
 | Aufruf | Methode | Beschreibung |
 |--------|---------|--------------|
@@ -53,13 +53,10 @@ Ist die passende Methode unklar, genügt eine Beschreibung der Situation in eige
 | `/pdt:surveys-questionnaires` | [Surveys / Questionnaires](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/surveys_questionnaires) | Surveys sind strukturierte Befragungen zur systematischen Sammlung von Daten, Meinungen und Verhaltensmustern einer Zielgruppe. |
 | `/pdt:user-interviews` | [User Interviews](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/user_interviews) | User Interviews sind strukturierte Gespräche mit Zielnutzern, um deren Bedürfnisse, Verhaltensweisen und Schmerzpunkte zu verstehen. |
 | `/pdt:user-journey-mapping` | [User Journey Mapping](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/user_journey_mapping) | User Journey Mapping visualisiert die komplette Erfahrung eines Nutzers mit einem Produkt oder Service über alle Berührungspunkte hinweg. |
-| `/pdt:value-proposition-canvas-customer-profile` | [Value Proposition Canvas — Customer Profile](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/value_proposition_canvas_customer_profile) | Das Customer Profile ist die linke Hälfte des Value Proposition Canvas und dient der systematischen Analyse der Zielkunden. |
-| `/pdt:value-proposition-jobs-to-be-done` | [Value Proposition Jobs to be done](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/value_proposition_jobs_to_be_done) | Eine systematische Methode zur Identifikation und Analyse der wichtigsten Aufgaben, die Kunden zu erledigen versuchen. |
-| `/pdt:value-proposition-pains-and-gains` | [Value Proposition Pains and Gains](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/problem-space/value_proposition_pains_and_gains) | Eine strukturierte Methode zur Analyse von Kundenproblemen (Pains) und gewünschten Nutzen (Gains), um daraus gezielte Wertversprechen zu entwickeln. |
 
 ## Solution Space
 
-*Wie wird es gelöst?* · 14 Methoden · Wegweiser: `/pdt:solution`
+*Wie wird es gelöst?* · 13 Methoden · Wegweiser: `/pdt:solution`
 
 | Aufruf | Methode | Beschreibung |
 |--------|---------|--------------|
@@ -76,7 +73,6 @@ Ist die passende Methode unklar, genügt eine Beschreibung der Situation in eige
 | `/pdt:service-blueprints` | [Service Blueprints](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/solution-space/service_blueprints) | Ein Service Blueprint visualisiert einen Service-Prozess in horizontalen Layern: Physical Evidence, Customer Actions, Onstage Actions, Backstage … |
 | `/pdt:storyboards` | [Storyboards](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/solution-space/storyboards) | Storyboards sind sequenzielle visuelle Darstellungen, die den Ablauf einer User Journey oder eines Nutzungsszenarios in Form von Bildsequenzen … |
 | `/pdt:usability-testing` | [Usability Testing](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/solution-space/usability_testing) | Beim Usability Testing wird ein Produkt mit echten Nutzern getestet, um Bedienungsprobleme und Verbesserungsmöglichkeiten zu identifizieren. |
-| `/pdt:value-proposition-canvas-value-map` | [Value Proposition Canvas — Value Map](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/solution-space/value_proposition_canvas_value_map) | Die Value Map ist die rechte Hälfte des Value Proposition Canvas und beschreibt, wie das Angebot auf die Kundenbedürfnisse antwortet. |
 
 ## Product Space
 
