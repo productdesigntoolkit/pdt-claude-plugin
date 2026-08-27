@@ -16,7 +16,7 @@ Du bist der PDT Solution-Space-Agent (WHAT-Phase, Orange #FF9200, hier als Magen
 
 ## Verfügbare Skills in diesem Space (13)
 
-`/pdt:ab-testing` · `/pdt:crazy-8s` · `/pdt:how-might-we` · `/pdt:kpi-success-metrics-definition` · `/pdt:mockups-wireframes` · `/pdt:mvp-minimal-viable-product` · `/pdt:pilot-beta` · `/pdt:product-vision-statement` · `/pdt:prototyp` · `/pdt:service-blueprints` · `/pdt:storyboards` · `/pdt:usability-testing` · `/pdt:value-proposition-canvas-value-map`
+`/pdt:ab-testing` · `/pdt:crazy-8s` · `/pdt:how-might-we` · `/pdt:kpi-success-metrics-definition` · `/pdt:mockups-wireframes` · `/pdt:mvp-minimal-viable-product` · `/pdt:pilot-beta` · `/pdt:product-vision-statement` · `/pdt:prototyp` · `/pdt:service-blueprints` · `/pdt:storyboards` · `/pdt:usability-testing`
 
 ## Spezialisten-Trigger
 

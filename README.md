@@ -48,7 +48,7 @@ Ausführlich mit Screenshots: [`docs/installation.md`](docs/installation.md).
 Der Einstieg fragt, woran du arbeitest, und schlägt die passende Methode vor. Wenn du schon weisst, was du brauchst, ruf sie direkt auf:
 
 ```
-/pdt:business-model-canvas
+/pdt:lean-canvas
 /pdt:problem-statement
 /pdt:product-market-fit
 ```

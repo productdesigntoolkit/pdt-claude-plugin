@@ -1,6 +1,6 @@
 # Methodenübersicht
 
-81 Methoden in fünf Spaces. Jede Methode wird über den angegebenen Befehl aufgerufen und führt durch die Anwendung bis zu einem Ergebnis in `pdt-workspace/`.
+80 Methoden in fünf Spaces. Jede Methode wird über den angegebenen Befehl aufgerufen und führt durch die Anwendung bis zu einem Ergebnis in `pdt-workspace/`.
 
 Der Aufbau der Methode selbst, also Herkunft, Quellen und ausführliche Anleitung, steht in der Methodenbibliothek. Die Spalte Beschreibung nennt den Zweck in einem Satz.
 
@@ -10,13 +10,12 @@ Ist die passende Methode unklar, genügt eine Beschreibung der Situation in eige
 
 ## Strategy Space
 
-*Warum und für wen?* · 18 Methoden · Wegweiser: `/pdt:strategy`
+*Warum und für wen?* · 17 Methoden · Wegweiser: `/pdt:strategy`
 
 | Aufruf | Methode | Beschreibung |
 |--------|---------|--------------|
 | `/pdt:bcg-matrix` | [BCG Matrix](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/bcg_matrix) | Die BCG Matrix kategorisiert Produkte oder Geschäftsbereiche in vier Quadranten basierend auf Marktwachstum und relativem Marktanteil. |
 | `/pdt:blue-ocean-4-actions-framework` | [Blue Ocean 4 Actions Framework](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/blue_ocean_4_actions_framework) | Das Blue Ocean 4 Actions Framework hilft dabei, neue Markträume zu schaffen, indem es vier strategische Aktionen kombiniert: Eliminieren, Reduzieren, … |
-| `/pdt:business-model-canvas` | [Business Model Canvas](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/business_model_canvas) | Das Business Model Canvas visualisiert alle wichtigen Bausteine eines Geschäftsmodells auf einer einzigen Seite. |
 | `/pdt:ecosystem-canvas` | [Ecosystem Canvas](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/ecosystem_canvas) | Das Ecosystem Canvas visualisiert alle wichtigen Bausteine eines kollaborativen Geschäftsmodells auf einer einzigen Seite und klärt, wer was … |
 | `/pdt:helmers-7-powers` | [Helmers 7 Powers](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/helmers_7_powers) | 7 Powers ist ein Analyseraster von Hamilton Helmer, das die sieben Strukturen benennt, die einem Unternehmen dauerhaft überdurchschnittliche Renditen … |
 | `/pdt:impact-mapping-strategy` | [Impact Mapping (Strategy)](https://productdesigntoolkit.gitbook.io/productdesigntoolkit-docs/strategy-space/impact_mapping_strategy_) | Impact Mapping visualisiert den strategischen Weg von Geschäftszielen über Akteure und deren Verhaltensänderungen hin zu konkreten Produktfunktionen. |

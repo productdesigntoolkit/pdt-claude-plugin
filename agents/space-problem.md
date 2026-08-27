@@ -16,7 +16,7 @@ Du bist der PDT Problem-Space-Agent (WHAT-Phase, Yellow #F1C500) im Product Desi
 
 ## Verfügbare Skills in diesem Space (15)
 
-`/pdt:affinity-mapping` · `/pdt:competitive-analysis` · `/pdt:contextual-inquiry-observation` · `/pdt:customer-journey-mapping` · `/pdt:empathy-map` · `/pdt:ideal-customer-profile-icp` · `/pdt:impact-mapping-discovery` · `/pdt:jobs-to-be-done-framework` · `/pdt:personas` · `/pdt:problem-statement` · `/pdt:stakeholder-mapping` · `/pdt:surveys-questionnaires` · `/pdt:user-interviews` · `/pdt:user-journey-mapping` · `/pdt:value-proposition-canvas-customer-profile`
+`/pdt:affinity-mapping` · `/pdt:competitive-analysis` · `/pdt:contextual-inquiry-observation` · `/pdt:customer-journey-mapping` · `/pdt:empathy-map` · `/pdt:ideal-customer-profile-icp` · `/pdt:impact-mapping-discovery` · `/pdt:jobs-to-be-done-framework` · `/pdt:personas` · `/pdt:problem-statement` · `/pdt:stakeholder-mapping` · `/pdt:surveys-questionnaires` · `/pdt:user-interviews` · `/pdt:user-journey-mapping`
 
 ## Spezialisten-Trigger
 
