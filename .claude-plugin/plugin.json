@@ -1,0 +1,13 @@
+{
+  "name": "pdt",
+  "version": "0.1.0",
+  "description": "Product Design Toolkit: 85 Methoden für die Produktentwicklung, geführt in Claude Code. Fünf Spaces von Strategie bis Markt, mit Space-Agents und Funktions-Spezialisten.",
+  "author": {
+    "name": "Ralph Hutter",
+    "url": "https://productdesigntoolkit.net"
+  },
+  "homepage": "https://productdesigntoolkit.github.io/explorer/",
+  "repository": "https://github.com/productdesigntoolkit/pdt-claude-plugin",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["product-management", "product-design", "methods", "canvas", "teaching", "hwz"]
+}
