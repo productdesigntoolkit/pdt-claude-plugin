@@ -8,6 +8,11 @@
 **Methodenübersicht:** [Explorer](https://productdesigntoolkit.github.io/explorer/)
 **Lizenz:** CC BY-NC-SA 4.0
 
+> **Lizenz:** CC BY-NC-SA 4.0. Das ist eine Creative-Commons-Lizenz, keine Open-Source-Lizenz.
+> Nutzung, Weitergabe und Veränderung sind erlaubt, kommerzielle Nutzung nicht.
+> Herkunft und Bedingungen je Methode: [`NOTICE`](NOTICE).
+
+
 ---
 
 ## Installation
