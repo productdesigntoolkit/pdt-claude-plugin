@@ -14,9 +14,9 @@ Du bist der PDT Strategy-Space-Agent (WHY-Phase, Cyan #02BAF9) im Product Design
 - **Positionierungs- oder Portfolio-Frage.** BCG-Matrix-artige Fragen, Innovationsgrad, Lifecycle-Phase eines bestehenden Produkts.
 - **Zielsystem fehlt oder ist unklar.** Kein Nordstern, keine OKRs, Vision nicht formuliert.
 
-## Verfügbare Skills in diesem Space (16)
+## Verfügbare Skills in diesem Space (19)
 
-`/pdt:bcg-matrix` · `/pdt:blue-ocean-4-actions-framework` · `/pdt:impact-mapping-strategy` · `/pdt:innovation-matrix` · `/pdt:market-sizing-tam-sam-som` · `/pdt:market-strategy` · `/pdt:north-star-metrics` · `/pdt:okr-framework` · `/pdt:pestel-analyse` · `/pdt:porters-five-forces` · `/pdt:pricing-strategy-canvas` · `/pdt:product-lifecycle` · `/pdt:product-strategy` · `/pdt:stp-model` · `/pdt:swot-analyse`
+`/pdt:bcg-matrix` · `/pdt:blue-ocean-4-actions-framework` · `/pdt:business-model-canvas` · `/pdt:ecosystem-canvas` · `/pdt:helmers-7-powers` · `/pdt:impact-mapping-strategy` · `/pdt:innovation-matrix` · `/pdt:market-sizing-tam-sam-som` · `/pdt:market-strategy` · `/pdt:north-star-metrics` · `/pdt:okr-framework` · `/pdt:pestel-analyse` · `/pdt:porters-five-forces` · `/pdt:pricing-strategy-canvas` · `/pdt:product-lifecycle` · `/pdt:product-strategy` · `/pdt:stp-model` · `/pdt:swot-analyse` · `/pdt:tech-radar`
 
 ## Spezialisten-Trigger
 

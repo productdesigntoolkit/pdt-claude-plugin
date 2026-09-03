@@ -4,7 +4,7 @@ NOTICE
 Product Design Toolkit
 Copyright (c) 2026 Ralph Hutter  ·  https://productdesigntoolkit.net
 
-Diese Sammlung bündelt 85 Methoden der digitalen Produktentwicklung.
+Diese Sammlung bündelt 86 Methoden der digitalen Produktentwicklung.
 Die redaktionelle Aufbereitung, also Struktur, Kurzanleitungen, Prompts und
 Dialogführung, steht unter CC BY-NC-SA 4.0 und stammt von Ralph Hutter.
 
@@ -26,8 +26,8 @@ veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
     Aufnahme in Software-Lösungen empfiehlt Strategyzer eine vorherige
     Anfrage.
     Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
-    Nicht im veröffentlichten Plugin enthalten. Anfrage an den
-    Rechteinhaber ausstehend, Stand 2026-08-27.
+    Enthalten seit 2026-09-02 auf ausdrücklichen Entscheid des
+    Herausgebers. Anfrage an den Rechteinhaber weiterhin ausstehend.
 
   Lean Canvas
     Rechteinhaber: Ash Maurya
@@ -42,8 +42,8 @@ veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
     für die Aufnahme des Canvas in Software-Anwendungen vor. Dafür ist
     eine Genehmigung erforderlich.
     Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
-    Nicht im veröffentlichten Plugin enthalten. Die Rechtelage wird
-    geklärt, Stand 2026-08-27.
+    Enthalten seit 2026-09-02 auf ausdrücklichen Entscheid des
+    Herausgebers. Genehmigung des Rechteinhabers noch nicht eingeholt.
 
   Value Proposition Canvas — Value Map
     Rechteinhaber: Strategyzer AG
@@ -51,8 +51,8 @@ veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
     für die Aufnahme des Canvas in Software-Anwendungen vor. Dafür ist
     eine Genehmigung erforderlich.
     Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
-    Nicht im veröffentlichten Plugin enthalten. Die Rechtelage wird
-    geklärt, Stand 2026-08-27.
+    Enthalten seit 2026-09-02 auf ausdrücklichen Entscheid des
+    Herausgebers. Genehmigung des Rechteinhabers noch nicht eingeholt.
 
   Value Proposition Jobs to be done
     Rechteinhaber: Strategyzer AG
@@ -60,8 +60,8 @@ veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
     Strategyzer AG die Rechte für Adaptionen und Software-Anwendungen
     vorbehält.
     Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
-    Nicht im veröffentlichten Plugin enthalten. Die Rechtelage wird
-    geklärt, Stand 2026-08-27.
+    Enthalten seit 2026-09-02 auf ausdrücklichen Entscheid des
+    Herausgebers. Genehmigung des Rechteinhabers noch nicht eingeholt.
 
   Value Proposition Pains and Gains
     Rechteinhaber: Strategyzer AG
@@ -69,8 +69,8 @@ veröffentlicht, die über das allgemeine Urheberrecht hinausgehen.
     Strategyzer AG die Rechte für Adaptionen und Software-Anwendungen
     vorbehält.
     Quelle: https://www.strategyzer.com/legal/usage-of-our-tools  (geprüft 2026-08-27)
-    Nicht im veröffentlichten Plugin enthalten. Die Rechtelage wird
-    geklärt, Stand 2026-08-27.
+    Enthalten seit 2026-09-02 auf ausdrücklichen Entscheid des
+    Herausgebers. Genehmigung des Rechteinhabers noch nicht eingeholt.
 
 
 HERKUNFT DER METHODEN
@@ -90,6 +90,7 @@ Strategy Space
   Business Model Canvas
     Alexander Osterwalder, Yves Pigneur · Business Model Generation (Strategyzer Series) · 2010
     https://www.strategyzer.com/library/the-business-model-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
 
   Ecosystem Canvas
     Marc Burkhalter · Allocentric Business Models. An Allocentric Business Model Ontology for the Orchestration of Value Co-Creation Using the Example of Financial Service Ecosystems · 2020
@@ -150,6 +151,14 @@ Strategy Space
   SWOT Analyse
     Albert Humphrey (Stanford Research Institute) — SWOT; Heinz Weihrich — TOWS-Matrix · Weihrich, "The TOWS Matrix — A Tool for Situational Analysis" (Long Range Planning) · 1960er (SWOT, Humphrey) / 1982 (TOWS, Weihrich)
     https://www.usfca.edu/fact/weihrich
+
+  Tech Radar
+    Thoughtworks Technology Advisory Board · Technology Radar · 2010
+    Publikation: «© Thoughtworks, Inc. All Rights Reserved». Das Werkzeug
+    Build Your Own Radar steht unter AGPL-3.0. Eigene Radare sind laut
+    Radar-FAQ ausdrücklich erwünscht. Übernommen ist hier das Format,
+    nicht der Inhalt einer Thoughtworks-Ausgabe.
+    https://www.thoughtworks.com/radar/faq
 
 Problem Space
 -------------
@@ -212,12 +221,15 @@ Problem Space
   Value Proposition Canvas — Customer Profile
     Alexander Osterwalder, Yves Pigneur, Greg Bernarda, Alan Smith · Value Proposition Design (Strategyzer Series) · 2014
     https://www.strategyzer.com/library/the-value-proposition-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
 
   Value Proposition Jobs to be done
     Clayton M. Christensen · 2016
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
 
   Value Proposition Pains and Gains
     Alexander Osterwalder & Yves Pigneur · 2014
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
 
 Solution Space
 --------------
@@ -277,6 +289,7 @@ Solution Space
   Value Proposition Canvas — Value Map
     Alexander Osterwalder, Yves Pigneur, Greg Bernarda, Alan Smith · Value Proposition Design (Strategyzer Series) · 2014
     https://www.strategyzer.com/library/the-value-proposition-canvas
+    Siehe Abschnitt zu den Nutzungsbedingungen oben.
 
 Product Space
 -------------

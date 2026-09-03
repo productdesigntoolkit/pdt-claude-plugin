@@ -1,6 +1,6 @@
 # Product Design Toolkit für Claude Code
 
-85 Methoden für die Produktentwicklung, geführt statt nachgeschlagen. Von der Strategie bis zum Markt, mit fünf Space-Agents und sechs Funktions-Spezialisten.
+86 Methoden für die Produktentwicklung, geführt statt nachgeschlagen. Von der Strategie bis zum Markt, mit fünf Space-Agents und sechs Funktions-Spezialisten.
 
 ![PDT](assets/cover.jpg)
 
@@ -48,7 +48,8 @@ Ausführlich mit Screenshots: [`docs/installation.md`](docs/installation.md).
 Der Einstieg fragt, woran du arbeitest, und schlägt die passende Methode vor. Wenn du schon weisst, was du brauchst, ruf sie direkt auf:
 
 ```
-/pdt:lean-canvas
+/pdt:business-model-canvas
+/pdt:tech-radar
 /pdt:problem-statement
 /pdt:product-market-fit
 ```
@@ -65,7 +66,7 @@ Schritt für Schritt: [`docs/erste-schritte.md`](docs/erste-schritte.md).
 
 | | |
 |---|---|
-| 85 Methoden als Befehle | von BCG Matrix bis User Story Mapping |
+| 86 Methoden als Befehle | von BCG Matrix bis User Story Mapping |
 | 5 Space-Wegweiser | `/pdt:strategy`, `/pdt:problem`, `/pdt:solution`, `/pdt:product`, `/pdt:market` |
 | 11 Agents | fünf für die Spaces, sechs für Querschnittsthemen wie Security, Recht, Branding |
 | 2 Skills | Method Finder und Projektgedächtnis, beide melden sich von selbst |
@@ -99,4 +100,4 @@ Deinstallieren: `claude plugin uninstall pdt@pdt`
 
 Das PDT-Framework, also Struktur, redaktionelle Aufbereitung und Anleitungen, steht unter CC BY-NC-SA 4.0, Ralph Hutter.
 
-Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Herkunft und Bedingungen je Methode stehen in [`NOTICE`](NOTICE).
+Die einzelnen Methoden stammen von ihren jeweiligen Urhebern und sind nicht durch diese Lizenz abgedeckt. Herkunft und Bedingungen je Methode stehen in [`NOTICE`](NOTICE). Sechs Methoden unterliegen ausdrücklichen Bedingungen der Rechteinhaber, darunter die Canvases von Strategyzer.

@@ -14,9 +14,9 @@ Du bist der PDT Market-Space-Agent (WHEN-Phase, Pink #F15BB5, hier als Green dar
 - **Kommunikation/Content.** Brand Voice, Content-Kalender, Kommunikationsplan, Sales Playbook.
 - **Bestehendes Produkt optimieren.** Marketing-KPIs, Attribution, CRM-Funnel für ein laufendes Produkt (Zusammenspiel mit `space-problem` für Journey-Analyse).
 
-## Verfügbare Skills in diesem Space (19)
+## Verfügbare Skills in diesem Space (21)
 
-`/pdt:aarrr-framework` · `/pdt:ab-testing-marketing` · `/pdt:brand-voice-guide` · `/pdt:co-creation-canvas` · `/pdt:communication-plan` · `/pdt:content-calendar` · `/pdt:crm-funnel-mapping` · `/pdt:flywheel-model` · `/pdt:freemium-funnel` · `/pdt:go-to-market-strategy` · `/pdt:influencer-map` · `/pdt:loyalty-builder` · `/pdt:marketing-attribution-model` · `/pdt:marketing-kpi-dashboard` · `/pdt:marketing-strategy-canvas` · `/pdt:positioning-template` · `/pdt:sales-playbook` · `/pdt:segmentation-matrix` · `/pdt:ugc-tracker`
+`/pdt:aarrr-framework` · `/pdt:ab-testing-marketing` · `/pdt:brand-voice-guide` · `/pdt:co-creation-canvas` · `/pdt:communication-plan` · `/pdt:content-calendar` · `/pdt:crm-funnel-mapping` · `/pdt:flywheel-model` · `/pdt:freemium-funnel` · `/pdt:go-to-market-strategy` · `/pdt:hooked-model` · `/pdt:influencer-map` · `/pdt:loyalty-builder` · `/pdt:marketing-attribution-model` · `/pdt:marketing-kpi-dashboard` · `/pdt:marketing-strategy-canvas` · `/pdt:positioning-template` · `/pdt:sales-playbook` · `/pdt:segmentation-matrix` · `/pdt:uac-tracker` · `/pdt:ugc-tracker`
 
 ## Spezialisten-Trigger
 
