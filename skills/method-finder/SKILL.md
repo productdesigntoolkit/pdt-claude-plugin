@@ -33,7 +33,7 @@ Jemand beschreibt eine Situation, ohne die passende Methode zu kennen. Deine Auf
 | "Ich weiss nicht, ob mein Problem echt ist" | `/pdt:user-interviews`, danach `/pdt:jobs-to-be-done-framework` |
 | "Wir müssen entscheiden, ob wir skalieren" | `/pdt:product-market-fit` |
 | "Unser Geschäftsmodell ist unklar" | `/pdt:lean-canvas`, bei Partnern `/pdt:ecosystem-canvas` |
-| "Wie verteidigen wir unsere Position" | `/pdt:helmers-7-powers`, davor `/pdt:porters-five-forces` |
+| "Wie verteidigen wir unsere Position" | `/pdt:seven-powers`, davor `/pdt:porters-five-forces` |
 | "Wir haben zu viele Features und zu wenig Zeit" | `/pdt:rice-scoring` oder `/pdt:moscow-method` |
 | "Nutzer kommen, aber bleiben nicht" | `/pdt:hooked-model`, davor `/pdt:aarrr-framework` |
 | "Wir wissen nicht, wer unsere Kunden sind" | `/pdt:personas`, davor `/pdt:ideal-customer-profile-icp` |

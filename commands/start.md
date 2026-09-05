@@ -74,7 +74,7 @@ Nach Abschluss eines Skills (Output in `pdt-workspace/{space}/` liegt vor): `pdt
 ## Alle verfügbaren Skills
 
 ### 🎯 Strategy Space (19)
-`/pdt:bcg-matrix` · `/pdt:blue-ocean-4-actions-framework` · `/pdt:business-model-canvas` · `/pdt:ecosystem-canvas` · `/pdt:helmers-7-powers` · `/pdt:impact-mapping-strategy` · `/pdt:innovation-matrix` · `/pdt:market-sizing-tam-sam-som` · `/pdt:market-strategy` · `/pdt:north-star-metrics` · `/pdt:okr-framework` · `/pdt:pestel-analyse` · `/pdt:porters-five-forces` · `/pdt:pricing-strategy-canvas` · `/pdt:product-lifecycle` · `/pdt:product-strategy` · `/pdt:stp-model` · `/pdt:swot-analyse` · `/pdt:tech-radar`
+`/pdt:bcg-matrix` · `/pdt:blue-ocean-4-actions-framework` · `/pdt:business-model-canvas` · `/pdt:ecosystem-canvas` · `/pdt:impact-mapping-strategy` · `/pdt:innovation-matrix` · `/pdt:market-sizing-tam-sam-som` · `/pdt:market-strategy` · `/pdt:north-star-metrics` · `/pdt:okr-framework` · `/pdt:pestel-analyse` · `/pdt:porters-five-forces` · `/pdt:pricing-strategy-canvas` · `/pdt:product-lifecycle` · `/pdt:product-strategy` · `/pdt:seven-powers` · `/pdt:stp-model` · `/pdt:swot-analyse` · `/pdt:tech-radar`
 
 ### 🔍 Problem Space (17)
 `/pdt:affinity-mapping` · `/pdt:competitive-analysis` · `/pdt:contextual-inquiry-observation` · `/pdt:customer-journey-mapping` · `/pdt:empathy-map` · `/pdt:ideal-customer-profile-icp` · `/pdt:impact-mapping-discovery` · `/pdt:jobs-to-be-done-framework` · `/pdt:personas` · `/pdt:problem-statement` · `/pdt:stakeholder-mapping` · `/pdt:surveys-questionnaires` · `/pdt:user-interviews` · `/pdt:user-journey-mapping` · `/pdt:value-proposition-canvas-customer-profile` · `/pdt:value-proposition-jobs-to-be-done` · `/pdt:value-proposition-pains-and-gains`
